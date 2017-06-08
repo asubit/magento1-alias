@@ -74,6 +74,7 @@ ${LIGHTRED}Magento${NC} ${GREEN}Developement Alias Tools${NC} based on ${GREEN}m
 
 ${YELLOW}Usage:${NC}
  @[alias]
+
 ${YELLOW}Available commands:${NC}
  ${GREEN}@e${NC}    Edit the MagAlias file
  ${GREEN}@h${NC}    Display this help text
